@@ -98,10 +98,12 @@ Vleresimi i aktivitetit tuaj: Shume mire! Vazhdoni keshtu!
 Balanca e kalorive per sot: -250 kalori.
 Ju keni kaluar synimin me 250 kalori.
 
+
 ---
 
 ### Shembull për një përdorues që synon shtimin e peshës:
 
+```
 Miresevini ne programin e fitnesit Hyperfit!
 Cili eshte qellimi juaj, te humbni apo te shtoni peshe? (humbje/shtim): shtim
 Shkruani numrin e hapave te bere sot: 3500
@@ -110,15 +112,17 @@ Cili ishte niveli i intensitetit te ushtrimeve? (1.0 per i ulet, 2.0 mesatar, 3.
 Sa kalori synoni te konsumoni ne dite? 3000
 Shkruani sa kalori keni konsumuar sot nga ushqimi: 2500
 
----Raporti ditor i Aktiviteteve---
+~~~Raporti ditor i Aktiviteteve~~~
 Ju keni djegur rreth 140 kalori sot nga ecja!
 Kjo eshte ekuivalente me 14 minuta vrapim.
 Ju keni djegur rreth 100 kalori sot nga ushtrimet!
 Vleresimi i aktivitetit tuaj: Aktivitet mesatar. Mund te permiresohesh!
 Balanca e kalorive per sot: 440 kalori.
-Ju duhet te konsumoni 440 kalori me shume per te arritur objektivin tuaj.
----
+Ju duhet te konsumoni 440 kalori me shume per te arritur objektivin tuaj. 
+
 Ky dokumentim i output-it është i përgatitur për të përcjellë qartë funksionalitetet e programit në një dosje README.
+```
+
 ---
 
 ## Kërkesat
