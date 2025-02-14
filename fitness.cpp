@@ -24,3 +24,18 @@ string vleresoAktivitetin(int hapa) {
 float llogaritKaloriUshtrime(float koheMinuta, float intensitet) {
     return koheMinuta * intensitet * 5.0; // Mesatarisht 5 kalori per minute per nivel mesatar
 }
+
+// Funksion per te llogaritur balancin ditor te kalorive bazuar ne qellimin e fitnesit
+float llogaritBalancin(float kaloriHumbura, float kaloriUshtrime, float kaloriMarr, float kalorigoli, string qellimi) {
+    float totalKaloriDjegur = kaloriHumbura + kaloriUshtrime;
+        if (qellimi == "humbje") {
+            return (kalorigoli - totalKaloriDjegur) + kaloriMarr;
+        }
+        else if (qellimi == "shtim") {
+            return kalorigoli - (kaloriMarr - totalKaloriDjegur);
+        }
+        else {
+            cout << "Nuk keni shenuar vleren e kerkuar per qellimin."; // Rasti kur qellimi nuk eshte i sakte
+            return 0;
+        }
+}
