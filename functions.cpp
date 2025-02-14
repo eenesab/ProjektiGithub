@@ -15,3 +15,5 @@ float llogaritKaloriUshtrime(float koheMinuta, float intensitet) {
     return koheMinuta * intensitet * 5.0; // Mesatarisht 5 kalori per minute per nivel mesatar
 }
 
+//TEST
+
