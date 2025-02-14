@@ -120,7 +120,7 @@ Vleresimi i aktivitetit tuaj: Aktivitet mesatar. Mund te permiresohesh!
 Balanca e kalorive per sot: 440 kalori.
 Ju duhet te konsumoni 440 kalori me shume per te arritur objektivin tuaj. 
 ```
-### Ky dokumentim i output-it është i përgatitur për të përcjellë qartë funksionalitetet e programit në një dosje README.
+Ky dokumentim i output-it është i përgatitur për të përcjellë qartë funksionalitetet e programit në një dosje README.
 
 
 ---
